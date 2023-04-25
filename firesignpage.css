@@ -1,0 +1,31 @@
+.menu {text-align: right;
+    padding: 20px;}
+    
+    li {display: inline-block;
+    margin-right: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+.home-colour {color: #E31F18;}
+.home-colour:hover {color:black;}
+.horoscope {color: #E31F18;}
+.horoscope:hover {color:black}
+img { display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 150px;
+    max-width: 800%;
+    max-height: 800%;
+    margin-top: 150px;
+   }
+.image-container{ background-color: #BA0B1D;
+    margin-top: 200px;
+border-image-width: 1000px;}
+
+p{display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+width: 40%;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: #E31F18;
+font-size: large;
+}
